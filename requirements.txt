@@ -1,0 +1,6 @@
+cs
+boto3
+pandas
+numpy
+tabulate
+pyarrow
